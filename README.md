@@ -2,7 +2,7 @@
 
 Desenvolvido por Diego Cavalcante\
 E-Mail: diego@suportecavalcante.com.br\
-Skype: suportecavalcante\
+Telegram: @diego_cavalcante\
 Descrição: Pacote com quase 2.000 icones para Zabbix.\
 Download: [Baixar via AWS](https://s3-sa-east-1.amazonaws.com/suportecavalcante.com.br/downloads/zabbix/zabbix.icones.zip)
 
