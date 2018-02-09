@@ -15,3 +15,4 @@ OBS: Algumas imagens tem livre licença de uso, outras são proprietárias.
 ![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/02.png)
 ![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/03.png)
 ![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/04.png)
+![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/05.png)
