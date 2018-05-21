@@ -11,6 +11,15 @@ Algumas imagens foram extraidos do google e outras criadas do zero em diferentes
 OBS: Algumas imagens tem livre licença de uso, outras são proprietárias.
 
 # ICONES
+![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/06.png)
+![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/07.png)
+![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/08.png)
+![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/09.png)
+![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/10.png)
+![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/11.png)
+![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/12.png)
+![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/13.png)
+![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/14.png)
 ![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/01.png)
 ![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/02.png)
 ![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/03.png)
