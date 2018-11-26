@@ -1,6 +1,6 @@
 ![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/zabbix.jpg)
 
-Desenvolvido por Diego Cavalcante\
+Autor: Diego Cavalcante\
 E-Mail: diego@suportecavalcante.com.br\
 Telegram: @diego_cavalcante\
 Descrição: Pacote com mais de 2.000 icones para Zabbix.\
