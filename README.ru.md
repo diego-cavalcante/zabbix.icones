@@ -2,6 +2,8 @@
 
 *Прочитать на других языках: [English](README.md), [Português](README.pt.md), [Русский](README.ru.md).*
 
+## О проекте
+
 Автор: Diego Cavalcante\
 E-Mail: diego@suportecavalcante.com.br\
 Telegram: [diego_cavalcante](https://t.me/diego_cavalcante)\
@@ -11,7 +13,31 @@ Telegram: [diego_cavalcante](https://t.me/diego_cavalcante)\
 
 Примечание: некоторые изображения имеют свободную лицензию, у других есть владельцы, т.е. они являются проприетарными.
 
-# ICONES
+## Установка
+
+Всё что вам нужно - импортировать xml файлы в веб-интерфейсе Zabbix:
+* Перейдите по адресу *url_вашего_zabbix_сервера/map.import.php*;
+* Поставьте галочки напротив Изображения;
+* Выберите нужный файл и нажмите Импорт.
+
+Если вы хотите что-то изменить, то нужно сгенерировать собственный набор иконок с помощью скрипта png_to_xml.sh, который перекодирует изображения в текст с помощью base64 и создаёт xml файл из директории с png изображениями.\
+Скрипт исправлен, т.к. добавляет лишние теги ```<sysmap></sysmap>```. Исходный файл находится в [архиве]( https://sourceforge.net/projects/zabbix/files/ZABBIX%20Latest%20Stable/4.4.1/zabbix-4.4.1.tar.gz).
+
+Пример использования:
+```
+./png_to_xml.sh equipment        equipment.xml
+./png_to_xml.sh geometry         geometry.xml
+./png_to_xml.sh labels           labels.xml
+./png_to_xml.sh miscellaneous_v1 miscellaneous_v1.xml
+./png_to_xml.sh miscellaneous_v2 miscellaneous_v2.xml
+./png_to_xml.sh miscellaneous_v3 miscellaneous_v3.xml
+./png_to_xml.sh pixel            pixel.xml
+./png_to_xml.sh proprietary      proprietary.xml
+./png_to_xml.sh rack             rack.xml
+./png_to_xml.sh virtualization   virtualization.xml
+```
+
+## Скриншоты
 
 Примечание: имена файлов и директорий переведены на английский язык, имена исправлены для уменьшения путаницы после импорта в Zabbix.
 

@@ -2,6 +2,8 @@
 
 *Leia isto em outros idiomas: [English](README.md), [Português](README.pt.md), [Русский](README.ru.md).*
 
+## Zabbix icones
+
 Autor: Diego Cavalcante\
 E-Mail: diego@suportecavalcante.com.br\
 Telegram: [diego_cavalcante](https://t.me/diego_cavalcante)\
@@ -11,7 +13,7 @@ Algumas imagens foram extraidos do Google e outras criadas do zero em diferentes
 
 OBS: algumas imagens tem livre licença de uso, outras são proprietárias.
 
-# ICONES
+## Screenshots
 
 ![alt tag](screenshots.pt/15.png)
 ![alt tag](screenshots.pt/16.png)

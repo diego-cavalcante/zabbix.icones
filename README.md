@@ -2,6 +2,8 @@
 
 *Read this in other languages: [English](README.md), [Português](README.pt.md), [Русский](README.ru.md).*
 
+## Zabbix icons
+
 Author: Diego Cavalcante\
 E-Mail: diego@suportecavalcante.com.br\
 Telegram: [diego_cavalcante](https://t.me/diego_cavalcante)\
@@ -11,7 +13,31 @@ Some images were taken from Google and others created from scratch in different 
 
 NOTE: some images are free to use, others are proprietary.
 
-# ICONES
+## Installation
+
+All you need to do is import xml files in the Zabbix web interface:
+* Go to the address *your_zabbix_server_url/map.import.php*;
+* Check the box next to the Images;
+* Select the desired file and click Import.
+
+If you want to change something, you need to generate your own set of icons using the script png_to_xml.sh, which transcodes images into text using base64 and creates an xml file from a directory with png images.\
+Script is fixed because adds unnecessary tags ```<sysmap></sysmap>```. Source file is in [archive]( https://sourceforge.net/projects/zabbix/files/ZABBIX%20Latest%20Stable/4.4.1/zabbix-4.4.1.tar.gz).
+
+Usage example:
+```
+./png_to_xml.sh equipment        equipment.xml
+./png_to_xml.sh geometry         geometry.xml
+./png_to_xml.sh labels           labels.xml
+./png_to_xml.sh miscellaneous_v1 miscellaneous_v1.xml
+./png_to_xml.sh miscellaneous_v2 miscellaneous_v2.xml
+./png_to_xml.sh miscellaneous_v3 miscellaneous_v3.xml
+./png_to_xml.sh pixel            pixel.xml
+./png_to_xml.sh proprietary      proprietary.xml
+./png_to_xml.sh rack             rack.xml
+./png_to_xml.sh virtualization   virtualization.xml
+```
+
+## Screenshots
 
 Note: file and directory names are translated into English, names are corrected to reduce confusion after importing to Zabbix.
 
