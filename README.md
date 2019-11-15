@@ -39,6 +39,8 @@ Usage example:
 
 ## Screenshots
 
+Four colors of the icon mean four states: default (OK, in operation, green), problem (failure, red), maintenance (yellow), disabled (gray). For different icons, there are different sets of colors and sizes.
+
 Note: file and directory names are translated into English, names are corrected to reduce confusion after importing to Zabbix.
 
 ![alt tag](screenshots.en/15.png)
