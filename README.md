@@ -1,35 +1,39 @@
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/zabbix.jpg)
+![Zabbix logo](screenshots.en/zabbix.jpg)
 
-Autor: Diego Cavalcante\
+*Read this in other languages: [English](README.md), [Português](README.pt.md), [Русский](README.ru.md).*
+
+Author: Diego Cavalcante\
 E-Mail: diego@suportecavalcante.com.br\
-Telegram: @diego_cavalcante\
-Descrição: Pacote com quase de 3.000 icones para Zabbix Maps.\
-Download: [Baixar via AWS](https://s3-sa-east-1.amazonaws.com/suportecavalcante.com.br/downloads/zabbix/zabbix.icones.zip)
+Telegram: [diego_cavalcante](https://t.me/diego_cavalcante)\
+Description: pack of almost 3000 icons for Zabbix Maps
 
-Algumas imagens foram extraidos do google e outras criadas do zero em diferentes e cores e tamanhos. se você assim como eu dedica ou dedicou um certo tempo no desenvolvimento de mapas, telas e slideshows, meus parabéns pois sei o quando é demorado e muitas vezes complicado expressar de uma forma visual e descomplicada nosso ambiente e infraestrutura, espero que gostem.
+Some images were taken from Google and others created from scratch in different colors and sizes. If you, like me, have spent some time developing maps, screens, and slideshows, congratulations because I know how slow and often complicated to express our environment and infrastructure in a visual and uncomplicated way, I hope you enjoy it.
 
-OBS: Algumas imagens tem livre licença de uso, outras são proprietárias.
+NOTE: some images are free to use, others are proprietary.
 
 # ICONES
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/15.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/16.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/17.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/18.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/19.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/20.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/21.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/22.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/06.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/07.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/08.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/09.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/10.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/11.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/12.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/13.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/14.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/01.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/02.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/03.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/04.png)
-![alt tag](https://github.com/suportecavalcante/zabbix.icones/blob/master/screenshots/05.png)
+
+Note: file and directory names are translated into English, names are corrected to reduce confusion after importing to Zabbix.
+
+![alt tag](screenshots.en/15.png)
+![alt tag](screenshots.en/16.png)
+![alt tag](screenshots.en/17.png)
+![alt tag](screenshots.en/18.png)
+![alt tag](screenshots.en/19.png)
+![alt tag](screenshots.en/20.png)
+![alt tag](screenshots.en/21.png)
+![alt tag](screenshots.en/22.png)
+![alt tag](screenshots.en/06.png)
+![alt tag](screenshots.en/07.png)
+![alt tag](screenshots.en/08.png)
+![alt tag](screenshots.en/09.png)
+![alt tag](screenshots.en/10.png)
+![alt tag](screenshots.en/11.png)
+![alt tag](screenshots.en/12.png)
+![alt tag](screenshots.en/13.png)
+![alt tag](screenshots.en/14.png)
+![alt tag](screenshots.en/01.png)
+![alt tag](screenshots.en/02.png)
+![alt tag](screenshots.en/03.png)
+![alt tag](screenshots.en/04.png)
+![alt tag](screenshots.en/05.png)
