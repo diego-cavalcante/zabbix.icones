@@ -25,9 +25,12 @@ Script is fixed because adds unnecessary tags ```<sysmap></sysmap>```. Source fi
 
 Usage example:
 ```
+cd zabbix.icons.en
 ./png_to_xml.sh equipment        equipment.xml
 ./png_to_xml.sh geometry         geometry.xml
 ./png_to_xml.sh labels           labels.xml
+./png_to_xml.sh ../zabbix.icones.pt/legendas ../zabbix.icones.pt/labels.xml
+./png_to_xml.sh ../zabbix.icons.ru/labels ../zabbix.icons.ru/labels.xml
 ./png_to_xml.sh miscellaneous_v1 miscellaneous_v1.xml
 ./png_to_xml.sh miscellaneous_v2 miscellaneous_v2.xml
 ./png_to_xml.sh miscellaneous_v3 miscellaneous_v3.xml
@@ -43,25 +46,32 @@ Four colors of the icon mean four states: default (OK, in operation, green), pro
 
 Note: file and directory names are translated into English, names are corrected to reduce confusion after importing to Zabbix.
 
-![alt tag](screenshots.en/15.png)
-![alt tag](screenshots.en/16.png)
-![alt tag](screenshots.en/17.png)
-![alt tag](screenshots.en/18.png)
-![alt tag](screenshots.en/19.png)
-![alt tag](screenshots.en/20.png)
-![alt tag](screenshots.en/21.png)
-![alt tag](screenshots.en/22.png)
-![alt tag](screenshots.en/06.png)
-![alt tag](screenshots.en/07.png)
-![alt tag](screenshots.en/08.png)
-![alt tag](screenshots.en/09.png)
-![alt tag](screenshots.en/10.png)
-![alt tag](screenshots.en/11.png)
-![alt tag](screenshots.en/12.png)
-![alt tag](screenshots.en/13.png)
-![alt tag](screenshots.en/14.png)
-![alt tag](screenshots.en/01.png)
-![alt tag](screenshots.en/02.png)
-![alt tag](screenshots.en/03.png)
-![alt tag](screenshots.en/04.png)
-![alt tag](screenshots.en/05.png)
+#### equipment
+![](screenshots.en/equipment_1.png)
+![](screenshots.en/equipment_2.png)
+![](screenshots.en/equipment_3.png)
+#### geometry
+![](screenshots.en/geometry_1.png)
+![](screenshots.en/geometry_2.png)
+![](screenshots.en/geometry_3.png)
+#### labels
+![](screenshots.en/labels.png)
+![](screenshots.en/labels_pt.png)
+![](screenshots.en/labels_ru.png)
+#### miscellaneous_v1
+![](screenshots.en/miscellaneous_v1_1.png)
+![](screenshots.en/miscellaneous_v1_2.png)
+#### miscellaneous_v2
+![](screenshots.en/miscellaneous_v2_1.png)
+![](screenshots.en/miscellaneous_v2_2.png)
+#### miscellaneous_v3
+![](screenshots.en/miscellaneous_v3_1.png)
+![](screenshots.en/miscellaneous_v3_2.png)
+![](screenshots.en/miscellaneous_v3_3.png)
+![](screenshots.en/miscellaneous_v3_4.png)
+#### proprietary
+![](screenshots.en/proprietary.png)
+#### rack
+![](screenshots.en/rack.png)
+#### virtualization
+![](screenshots.en/virtualization.png)
