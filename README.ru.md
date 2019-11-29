@@ -28,6 +28,7 @@ Telegram: [diego_cavalcante](https://t.me/diego_cavalcante)\
 cd zabbix.icons.en
 ./png_to_xml.sh equipment        equipment.xml
 ./png_to_xml.sh geometry         geometry.xml
+./png_to_xml.sh huawei           huawei.xml
 ./png_to_xml.sh labels           labels.xml
 ./png_to_xml.sh ../zabbix.icones.pt/legendas ../zabbix.icones.pt/labels.xml
 ./png_to_xml.sh ../zabbix.icons.ru/labels ../zabbix.icons.ru/labels.xml
@@ -54,6 +55,16 @@ cd zabbix.icons.en
 ![](screenshots.en/geometry_1.png)
 ![](screenshots.en/geometry_2.png)
 ![](screenshots.en/geometry_3.png)
+#### huawei
+![](screenshots.en/huawei_1.png)
+![](screenshots.en/huawei_2.png)
+![](screenshots.en/huawei_3.png)
+![](screenshots.en/huawei_4.png)
+![](screenshots.en/huawei_5.png)
+![](screenshots.en/huawei_6.png)
+![](screenshots.en/huawei_7.png)
+![](screenshots.en/huawei_8.png)
+![](screenshots.en/huawei_9.png)
 #### labels
 ![](screenshots.en/labels.png)
 ![](screenshots.en/labels_pt.png)

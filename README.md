@@ -7,7 +7,7 @@
 Author: Diego Cavalcante\
 E-Mail: diego@suportecavalcante.com.br\
 Telegram: [diego_cavalcante](https://t.me/diego_cavalcante)\
-Description: pack of almost 3000 icons for Zabbix Maps
+Description: pack of almost 3000 icons for Zabbix network maps
 
 Some images were taken from Google and others created from scratch in different colors and sizes. If you, like me, have spent some time developing maps, screens, and slideshows, congratulations because I know how slow and often complicated to express our environment and infrastructure in a visual and uncomplicated way, I hope you enjoy it.
 
@@ -28,6 +28,7 @@ Usage example:
 cd zabbix.icons.en
 ./png_to_xml.sh equipment        equipment.xml
 ./png_to_xml.sh geometry         geometry.xml
+./png_to_xml.sh huawei           huawei.xml
 ./png_to_xml.sh labels           labels.xml
 ./png_to_xml.sh ../zabbix.icones.pt/legendas ../zabbix.icones.pt/labels.xml
 ./png_to_xml.sh ../zabbix.icons.ru/labels ../zabbix.icons.ru/labels.xml
@@ -54,6 +55,16 @@ Note: file and directory names are translated into English, names are corrected 
 ![](screenshots.en/geometry_1.png)
 ![](screenshots.en/geometry_2.png)
 ![](screenshots.en/geometry_3.png)
+#### huawei
+![](screenshots.en/huawei_1.png)
+![](screenshots.en/huawei_2.png)
+![](screenshots.en/huawei_3.png)
+![](screenshots.en/huawei_4.png)
+![](screenshots.en/huawei_5.png)
+![](screenshots.en/huawei_6.png)
+![](screenshots.en/huawei_7.png)
+![](screenshots.en/huawei_8.png)
+![](screenshots.en/huawei_9.png)
 #### labels
 ![](screenshots.en/labels.png)
 ![](screenshots.en/labels_pt.png)
